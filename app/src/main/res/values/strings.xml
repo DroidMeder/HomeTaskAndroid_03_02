@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="send_to">Send to</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="next">Next</string>
+</resources>
